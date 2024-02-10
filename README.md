@@ -2,12 +2,13 @@
 
 💫 Welcome! 🎉
 
-**implemented Docker**
-## Docker Commands
+## implemented Docker
+**Docker Commands**
 docker build -t test .
+
 docker run -it --rm -p 3001:3001 test
 
-**implemeted 2 unit test case for one controller( contract controller)**
+##implemeted 2 unit test case for one controller( contract controller)
 
 This backend exercise involves building a Node.js/Express.js app that will serve a REST API. We imagine you should spend around 3 hours at implement this feature.
 
